@@ -1,4 +1,4 @@
-# ParamFinderPy
+# ParamFinder
 
 ParamFinderPy adalah tool Python sederhana untuk mencari nama parameter dari sebuah domain atau URL. Tool ini melakukan crawling ringan pada link internal lalu mengumpulkan parameter dari:
 
